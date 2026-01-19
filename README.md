@@ -9,6 +9,9 @@
   <a href="https://twitter.com/Workflow_AI" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Workflow_AI?logo=x&style=for-the-badge&label=Follow%20@Workflow_AI&color=black" alt="Follow on X" />
   </a>
+  <a href="https://www.linkedin.com/in/sabarnathmaddinieni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabarnath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://linktr.ee/sabarnathm" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-Sabarnath-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
@@ -33,8 +36,12 @@ I specialize in building **RAG systems**, **Autonomous Agents**, and **Intellige
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://twitter.com/Workflow_AI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Workflow_AI" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sabarnath-maddinieni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sabarnath Maddinieni" height="30" width="40" /></a>
+  <a href="https://twitter.com/Workflow_AI" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Workflow_AI" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabarnathmaddinieni/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sabarnath Maddinieni" height="30" width="40" />
+  </a>
 </p>
 
 <br />
