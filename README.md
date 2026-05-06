@@ -1,51 +1,123 @@
-<h1 align="center">Hi, I'm Sabarnath (Sabar) 👋</h1>
-<h3 align="center">Applied AI Engineer & Software Developer</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Sabarnath (Sabar)
 
-<p align="center">
-  <em>Blending tech, memes & drama in Philadelphia. I help orgs automate boring data tasks with AI workflows and agents.</em>
-</p>
+### Applied AI Engineer & Software Developer
 
-<p align="center">
-  <a href="https://twitter.com/Workflow_AI" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Workflow_AI?logo=x&style=for-the-badge&label=Follow%20@Workflow_AI&color=black" alt="Follow on X" />
-  </a>
-  <a href="https://www.linkedin.com/in/sabarnathmaddinieni/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabarnath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://linktr.ee/sabarnathm" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-Sabarnath-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</p>
+*Building intelligent systems that automate the boring stuff*  
+*Based in Philadelphia, PA 🏙️*
+
+[![Follow on X](https://img.shields.io/twitter/follow/Workflow_AI?logo=x&style=for-the-badge&label=Follow%20@Workflow_AI&color=black)](https://twitter.com/Workflow_AI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarnathmaddinieni/)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sabarnathm)
+![Profile Views](https://komarev.com/ghpvc/?username=smaddinieni&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
-### 🚀 About Me
-I specialize in building **RAG systems**, **Autonomous Agents**, and **Intelligent Workflows**. My goal is to bridge the gap between complex LLM capabilities and practical business automation.
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Agentic Workflows & Data Automation**
-- 🌱 I’m currently learning **Advanced Multi-Agent Orchestration**
-- 📍 Based in **Philadelphia/Exton, PA**
+I'm an AI Engineer passionate about **bridging the gap between complex LLM capabilities and practical business automation**. I specialize in building:
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-</p>
+- 🤖 **RAG Systems** - Retrieval-Augmented Generation for intelligent document processing
+- 🔄 **Autonomous Agents** - Multi-agent systems that handle complex workflows
+- ⚡ **Intelligent Workflows** - End-to-end automation pipelines powered by AI
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://twitter.com/Workflow_AI" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Workflow_AI" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sabarnathmaddinieni/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sabarnath Maddinieni" height="30" width="40" />
-  </a>
-</p>
+### 🎯 Current Focus
+- 🔭 Building **Agentic Workflows & Data Automation** solutions
+- 🌱 Exploring **Advanced Multi-Agent Orchestration** patterns
+- 💡 Helping organizations automate repetitive tasks with AI
 
-<br />
+---
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=smaddinieni&label=Profile%20views&color=0e75b6&style=flat" alt="smaddinieni" />
-</p>
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Sabarnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smaddinieni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaddinieni&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smaddinieni&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Sabarnath Maddinieni"
+        self.role = "Applied AI Engineer"
+        self.location = "Philadelphia, PA"
+        
+    def specialties(self):
+        return [
+            "Building RAG systems for enterprise",
+            "Designing multi-agent workflows",
+            "Automating data pipelines with AI",
+            "LLM application development"
+        ]
+    
+    def current_work(self):
+        return {
+            "focus": "Agentic AI Workflows",
+            "tools": ["LangChain", "OpenAI", "Azure AI"],
+            "goal": "Making AI practical for businesses"
+        }
+```
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on AI projects, discussing new technologies, or helping businesses leverage AI for automation.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarnath@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarnathmaddinieni/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Workflow_AI)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sabarnathm)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Featured Repositories
+
+Check out my pinned repositories below for examples of my work!
+
+*"The best way to predict the future is to build it."*
+
+</div>
