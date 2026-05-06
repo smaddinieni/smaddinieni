@@ -56,20 +56,6 @@ I'm an AI Engineer passionate about **bridging the gap between complex LLM capab
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sabarnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smaddinieni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaddinieni&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smaddinieni&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 What I Do
 
 ```python
