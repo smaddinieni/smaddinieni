@@ -95,15 +95,3 @@ I'm always interested in collaborating on AI projects, discussing new technologi
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sabarnathm)
 
 </div>
-
----
-
-<div align="center">
-  
-### ⭐ Featured Repositories
-
-Check out my pinned repositories below for examples of my work!
-
-*"The best way to predict the future is to build it."*
-
-</div>
