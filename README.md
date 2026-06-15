@@ -8,7 +8,7 @@
 
 <!-- Social badges -->
 
-[![Follow on X](https://img.shields.io/twitter/follow/Workflow_AI?logo=x&style=for-the-badge&label=Follow%20%40Workflow_AI&color=000000)](https://twitter.com/Workflow_AI)
+[![Follow on X](https://img.shields.io/twitter/follow/sabarnathx?logo=x&style=for-the-badge&label=Follow%20%40sabarnathx&color=000000)](https://twitter.com/sabarnathx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarnathmaddinieni/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sabarnathm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarnathm@gmail.com)
@@ -165,7 +165,7 @@ class AIEngineeringLead:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarnathm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarnathmaddinieni/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Workflow_AI)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sabarnathx)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sabarnathm)
 
 <br/>
